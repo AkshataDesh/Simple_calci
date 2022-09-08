@@ -1,0 +1,32 @@
+body
+{
+    background-color: aquamarine;
+}
+.container
+{
+   text-align: center;
+}
+
+table
+{ 
+    margin: auto;
+}
+
+input{
+ font-size: 30px;
+ height: 65px;
+ width: 410px;
+ margin: 20px;
+ border: 3px solid saddlebrown;
+}
+
+button
+{
+    background-color: rgb(233, 227, 238);
+
+    font-size: 30px;
+    margin: 3px;
+    height: 64px;
+    width: 97px;
+   
+}
